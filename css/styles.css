@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1 {
+  margin: 0 auto 0 auto;
+    padding-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    color: #3282b8;
+    line-height: 1;
+}
+ul {
+  margin-top: 0;
+  background-color:  #6ddccf;
+position: fixed;
+width: 98%;
+text-align: right;
+}
+li {
+  font-size: 20px;
+  display: inline;
+  padding: 20px;
+  text-transform: uppercase;
+  color: blue;
+  cursor: pointer;
+}
+li:hover {
+  color: lightpink;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: #28527a;
+  padding: 1%;
+
+}
+a:hover {
+  color: white;
+  cursor: pointer;
+}
+.top-container {
+background-color: #E4F9F5;
+}
+.middle-container{
+  margin: 100px auto;
+}
+div {
+    display: block;
+}
+span {
+  color: #ec3646;
+}
+h2 {
+  font-family: 'Merriweather', serif;
+      font-size: 2.5rem;
+      color: #3282b8;
+      font-weight: normal;
+}
+.h2 {
+  font-family: 'Merriweather', serif;
+      font-size: 2.5rem;
+      color: #3282b8;
+      font-weight: normal;
+}
+h3 {
+  color: #6ddccf;
+  font-size: 30px;
+font-family: 'Lobster', cursive;
+text-align: center;
+}
+p {
+  color: #40514E;
+    line-height: 2;
+  font-family: 'Merriweather', serif;
+  display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+
+}
+hr {
+  border: dotted;
+    color: #28527a;
+    border-width: 6px;
+    width: 4%;
+  border-top: none;
+}
+
+.profile {
+  text-align: center;
+margin-top: 5%;
+}
+.intro {
+  width: 30%;
+    margin: auto;
+font-family: 'Merriweather', serif;
+}
+
+.prog-img {
+  width: 15%;
+    height: 15%;
+}
+.chess-img {
+  width: 25%;
+      height: 25%;
+      float: left;
+      margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.chess {
+  text-align: center;
+}
+.code-img {
+  width: 25%;
+      height: 25%;
+      float: right;
+      margin-right: 30px;
+}
+.contact-message {
+  width: 40%;
+      margin: 60px auto 40px;
+}
+.contact-me {
+  text-align: center;
+  padding: 50px;
+
+}
+.myButton {
+  background-color: #66BFBF;
+    border-radius: 28px;
+    border: 1px solid #66BFBF;
+    display: inline-block;
+    cursor: pointer;
+    color: #EAF6F6;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #7cacde;
+  }
+  .myButton:hover {
+    background-color: #1687a7;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+      padding: 50px 0 20px;
+}
+.footer-link {
+  text-decoration: none;
+  color: #1687a7;
+  padding: 30px;
+font-size: 20px;
+font-family: monospace;
+}
+.footer-link:hover {
+  color: white;
+}
+
+  .copyright-message {
+      color: #EAF6F6;
+      font-size: 0.75rem;
+      padding: 20px 0;
+}
